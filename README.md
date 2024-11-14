@@ -3,7 +3,7 @@
 ## 𝐊𝐏𝐒𝐌𝐋-𝐗 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝐃𝐞𝐩𝐥𝐨𝐲 𝐮𝐬𝐢𝐧𝐠 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐨𝐥𝐚𝐛
 
 <p>
-    <a href="https://github.com/Tamilupdates/KPSML-X">
+    <a href="https://github.com/NITHISHKUMAR006/KPSML-X">
         <kbd>
             <img src="https://graph.org/file/879239eb830dd6c00b07e.jpg" width="550" alt="KPSML-X Logo">
         </kbd>
@@ -16,7 +16,7 @@
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tamilupdates/KPSML-X)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NITHISHKUMAR006/KPSML-X)
 
 </div>
 
@@ -28,7 +28,7 @@
 > Make sure git is Installed in your system or quick run `apt-get install git pip curl -y`
 
 ```shell
-git clone https://github.com/Tamilupdates/KPSML-X && cd KPSML-X 
+git clone https://github.com/NITHISHKUMAR006/KPSML-X && cd KPSML-X 
 ```
 
 **Step 2 :** Now Install Heroku in your Sytem or checkout Official Heroku Deploy Docs, or Download via `apt-get` or `npm`
@@ -99,7 +99,7 @@ nano config.env
   DATABASE_URL = ""
   BASE_URL = ""
   SET_COMMANDS = "True"
-  UPSTREAM_REPO = "https://github.com/Tamilupdates/KPSML-X"
+  UPSTREAM_REPO = "https://github.com/NITHISHKUMAR006/KPSML-X"
   UPSTREAM_BRANCH = "hk_kpsmlx"
   ```
 - After Setup Exit from Editor via `CTRL + X`, followed via `y` and `Enter`...
